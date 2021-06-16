@@ -1,0 +1,1247 @@
+[
+  {
+    "Country Code": "AD",
+    "Country Name": "Andorra",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "AE",
+    "Country Name": "United Arab Emirates",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "AF",
+    "Country Name": "Afghanistan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "AG",
+    "Country Name": "Antigua and Barbuda",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "AI",
+    "Country Name": "Anguilla",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "AL",
+    "Country Name": "Albania",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "AM",
+    "Country Name": "Armenia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "AO",
+    "Country Name": "Angola",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "AQ",
+    "Country Name": "Antarctica",
+    "Continent Code": "OT"
+  },
+  {
+    "Country Code": "AR",
+    "Country Name": "Argentina",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "AS",
+    "Country Name": "American Samoa",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "AT",
+    "Country Name": "Austria",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "AU",
+    "Country Name": "Australia",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "AW",
+    "Country Name": "Aruba",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "AZ",
+    "Country Name": "Azerbaijan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "BA",
+    "Country Name": "Bosnia and Herzegovina",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "BB",
+    "Country Name": "Barbados",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "BD",
+    "Country Name": "Bangladesh",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "BE",
+    "Country Name": "Belgium",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "BF",
+    "Country Name": "Burkina Faso",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "BG",
+    "Country Name": "Bulgaria",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "BH",
+    "Country Name": "Bahrain",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "BI",
+    "Country Name": "Burundi",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "BJ",
+    "Country Name": "Benin",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "BL",
+    "Country Name": "Saint Barthelemy",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "BM",
+    "Country Name": "Bermuda",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "BN",
+    "Country Name": "Brunei Darussalam",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "BO",
+    "Country Name": "Bolivia",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "BQ",
+    "Country Name": "Bonaire, Saint Eustatius and Saba",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "BR",
+    "Country Name": "Brazil",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "BS",
+    "Country Name": "Bahamas",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "BT",
+    "Country Name": "Bhutan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "BV",
+    "Country Name": "Bouvet Island",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "BW",
+    "Country Name": "Botswana",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "BY",
+    "Country Name": "Belarus",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "BZ",
+    "Country Name": "Belize",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "CA",
+    "Country Name": "Canada",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "CC",
+    "Country Name": "Cocos (Keeling) Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "CD",
+    "Country Name": "Congo, Democratic Republic of the",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CF",
+    "Country Name": "Central African Republic",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CG",
+    "Country Name": "Congo",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CH",
+    "Country Name": "Switzerland",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "CI",
+    "Country Name": "Cote d'Ivoire",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CK",
+    "Country Name": "Cook Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "CL",
+    "Country Name": "Chile",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "CM",
+    "Country Name": "Cameroon",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CN",
+    "Country Name": "China",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "CO",
+    "Country Name": "Colombia",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "CR",
+    "Country Name": "Costa Rica",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "CU",
+    "Country Name": "Cuba",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "CV",
+    "Country Name": "Cape Verde",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "CW",
+    "Country Name": "Curacao",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "CX",
+    "Country Name": "Christmas Island",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "CY",
+    "Country Name": "Cyprus",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "CZ",
+    "Country Name": "Czech Republic",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "DE",
+    "Country Name": "Germany",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "DJ",
+    "Country Name": "Djibouti",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "DK",
+    "Country Name": "Denmark",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "DM",
+    "Country Name": "Dominica",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "DO",
+    "Country Name": "Dominican Republic",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "DZ",
+    "Country Name": "Algeria",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "EC",
+    "Country Name": "Ecuador",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "EE",
+    "Country Name": "Estonia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "EG",
+    "Country Name": "Egypt",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "EH",
+    "Country Name": "Western Sahara",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ER",
+    "Country Name": "Eritrea",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ES",
+    "Country Name": "Spain",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "ET",
+    "Country Name": "Ethiopia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "EU",
+    "Country Name": "Europe (generic)",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "FI",
+    "Country Name": "Finland",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "FJ",
+    "Country Name": "Fiji",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "FK",
+    "Country Name": "Falkland Islands (Malvinas)",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "FM",
+    "Country Name": "Micronesia, Federated States of",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "FO",
+    "Country Name": "Faroe Islands",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "FR",
+    "Country Name": "France",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GA",
+    "Country Name": "Gabon",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GB",
+    "Country Name": "United Kingdom",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GD",
+    "Country Name": "Grenada",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "GE",
+    "Country Name": "Georgia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GF",
+    "Country Name": "French Guiana",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "GH",
+    "Country Name": "Ghana",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GI",
+    "Country Name": "Gibraltar",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GG",
+    "Country Name": "Guernsey",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GL",
+    "Country Name": "Greenland",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "GM",
+    "Country Name": "Gambia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GN",
+    "Country Name": "Guinea",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GP",
+    "Country Name": "Guadeloupe",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "GQ",
+    "Country Name": "Equatorial Guinea",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GR",
+    "Country Name": "Greece",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "GS",
+    "Country Name": "South Georgia/South Sandwich Isl.",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "GT",
+    "Country Name": "Guatemala",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "GU",
+    "Country Name": "Guam",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "GW",
+    "Country Name": "Guinea-Bissau",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "GY",
+    "Country Name": "Guyana",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "HK",
+    "Country Name": "Hong Kong",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "HM",
+    "Country Name": "Heard Island and Mcdonald Islands",
+    "Continent Code": "OT"
+  },
+  {
+    "Country Code": "HN",
+    "Country Name": "Honduras",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "HR",
+    "Country Name": "Croatia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "HT",
+    "Country Name": "Haiti",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "HU",
+    "Country Name": "Hungary",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "ID",
+    "Country Name": "Indonesia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IE",
+    "Country Name": "Ireland",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "IL",
+    "Country Name": "Israel",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IM",
+    "Country Name": "Isle of Man",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "IN",
+    "Country Name": "India",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IO",
+    "Country Name": "British Indian Ocean Territory",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IQ",
+    "Country Name": "Iraq",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IR",
+    "Country Name": "Iran",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "IS",
+    "Country Name": "Iceland",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "IT",
+    "Country Name": "Italy",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "JE",
+    "Country Name": "Jersey",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "JM",
+    "Country Name": "Jamaica",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "JO",
+    "Country Name": "Jordan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "JP",
+    "Country Name": "Japan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KE",
+    "Country Name": "Kenya",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "KG",
+    "Country Name": "Kyrgyzstan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KH",
+    "Country Name": "Cambodia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KI",
+    "Country Name": "Kiribati",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "KM",
+    "Country Name": "Comoros",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "KN",
+    "Country Name": "Saint Kitts and Nevis",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "KP",
+    "Country Name": "North Korea",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KR",
+    "Country Name": "South Korea",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KW",
+    "Country Name": "Kuwait",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "KY",
+    "Country Name": "Cayman Islands",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "KZ",
+    "Country Name": "Kazakhstan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "LA",
+    "Country Name": "Laos",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "LB",
+    "Country Name": "Lebanon",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "LC",
+    "Country Name": "Saint Lucia",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "LI",
+    "Country Name": "Liechtenstein",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "LK",
+    "Country Name": "Sri Lanka",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "LR",
+    "Country Name": "Liberia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "LS",
+    "Country Name": "Lesotho",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "LT",
+    "Country Name": "Lithuania",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "LU",
+    "Country Name": "Luxembourg",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "LV",
+    "Country Name": "Latvia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "LY",
+    "Country Name": "Libyan Arab Jamahiriya",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MA",
+    "Country Name": "Morocco",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MC",
+    "Country Name": "Monaco",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "MD",
+    "Country Name": "Moldova",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "ME",
+    "Country Name": "Montenegro",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "MF",
+    "Country Name": "Saint Martin",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "MG",
+    "Country Name": "Madagascar",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MH",
+    "Country Name": "Marshall Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "MK",
+    "Country Name": "Macedonia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "ML",
+    "Country Name": "Mali",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MM",
+    "Country Name": "Myanmar",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "MN",
+    "Country Name": "Mongolia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "MO",
+    "Country Name": "Macau",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "MP",
+    "Country Name": "Northern Mariana Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "MQ",
+    "Country Name": "Martinique",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "MR",
+    "Country Name": "Mauritania",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MS",
+    "Country Name": "Montserrat",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "MT",
+    "Country Name": "Malta",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "MU",
+    "Country Name": "Mauritius",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MV",
+    "Country Name": "Maldives",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "MW",
+    "Country Name": "Malawi",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "MX",
+    "Country Name": "Mexico",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "MY",
+    "Country Name": "Malaysia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "MZ",
+    "Country Name": "Mozambique",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "NA",
+    "Country Name": "Namibia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "NC",
+    "Country Name": "New Caledonia",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "NE",
+    "Country Name": "Niger",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "NF",
+    "Country Name": "Norfolk Island",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "NG",
+    "Country Name": "Nigeria",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "NI",
+    "Country Name": "Nicaragua",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "NL",
+    "Country Name": "Netherlands",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "NO",
+    "Country Name": "Norway",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "NP",
+    "Country Name": "Nepal",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "NR",
+    "Country Name": "Nauru",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "NU",
+    "Country Name": "Niue",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "NZ",
+    "Country Name": "New Zealand",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "OM",
+    "Country Name": "Oman",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "PA",
+    "Country Name": "Panama",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "PE",
+    "Country Name": "Peru",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "PF",
+    "Country Name": "French Polynesia",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "PG",
+    "Country Name": "Papua New Guinea",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "PH",
+    "Country Name": "Philippines",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "PK",
+    "Country Name": "Pakistan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "PL",
+    "Country Name": "Poland",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "PM",
+    "Country Name": "Saint Pierre and Miquelon",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "PN",
+    "Country Name": "Pitcairn",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "PR",
+    "Country Name": "Puerto Rico",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "PS",
+    "Country Name": "Palestinian Territory, Occupied",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "PT",
+    "Country Name": "Portugal",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "PW",
+    "Country Name": "Palau",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "PY",
+    "Country Name": "Paraguay",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "QA",
+    "Country Name": "Qatar",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "RE",
+    "Country Name": "Reunion",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "RO",
+    "Country Name": "Romania",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "RS",
+    "Country Name": "Serbia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "RU",
+    "Country Name": "Russian Federation",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "RW",
+    "Country Name": "Rwanda",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SA",
+    "Country Name": "Saudi Arabia",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "SB",
+    "Country Name": "Solomon Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "SC",
+    "Country Name": "Seychelles",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SD",
+    "Country Name": "Sudan",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SE",
+    "Country Name": "Sweden",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "SG",
+    "Country Name": "Singapore",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "SH",
+    "Country Name": "Saint Helena",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SI",
+    "Country Name": "Slovenia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "SJ",
+    "Country Name": "Svalbard and Jan Mayen",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "SK",
+    "Country Name": "Slovakia",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "SL",
+    "Country Name": "Sierra Leone",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SM",
+    "Country Name": "San Marino",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "SN",
+    "Country Name": "Senegal",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SO",
+    "Country Name": "Somalia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SR",
+    "Country Name": "Suriname",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "SS",
+    "Country Name": "South Sudan",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ST",
+    "Country Name": "Sao Tome and Principe",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "SV",
+    "Country Name": "El Salvador",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "SX",
+    "Country Name": "Sint Maarten",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "SY",
+    "Country Name": "Syrian Arab Republic",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "SZ",
+    "Country Name": "Swaziland",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "TC",
+    "Country Name": "Turks and Caicos Islands",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "TD",
+    "Country Name": "Chad",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "TF",
+    "Country Name": "French Southern Territories",
+    "Continent Code": "OT"
+  },
+  {
+    "Country Code": "TG",
+    "Country Name": "Togo",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "TH",
+    "Country Name": "Thailand",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "TJ",
+    "Country Name": "Tajikistan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "TK",
+    "Country Name": "Tokelau",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "TM",
+    "Country Name": "Turkmenistan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "TN",
+    "Country Name": "Tunisia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "TO",
+    "Country Name": "Tonga",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "TL",
+    "Country Name": "East Timor",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "TR",
+    "Country Name": "Turkey",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "TT",
+    "Country Name": "Trinidad and Tobago",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "TV",
+    "Country Name": "Tuvalu",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "TW",
+    "Country Name": "Taiwan, Province of China",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "TZ",
+    "Country Name": "Tanzania, United Republic of",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "UA",
+    "Country Name": "Ukraine",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "UG",
+    "Country Name": "Uganda",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "UM",
+    "Country Name": "USA Minor Outlying Islands",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "US",
+    "Country Name": "United States",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "UY",
+    "Country Name": "Uruguay",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "UZ",
+    "Country Name": "Uzbekistan",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "VA",
+    "Country Name": "Vatican City State",
+    "Continent Code": "EU"
+  },
+  {
+    "Country Code": "VC",
+    "Country Name": "St Vincent and the Grenadines",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "VE",
+    "Country Name": "Venezuela",
+    "Continent Code": "SA"
+  },
+  {
+    "Country Code": "VG",
+    "Country Name": "Virgin Islands, British",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "VI",
+    "Country Name": "Virgin Islands, U.S.",
+    "Continent Code": "NA"
+  },
+  {
+    "Country Code": "VN",
+    "Country Name": "Viet Nam",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "VU",
+    "Country Name": "Vanuatu",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "WF",
+    "Country Name": "Wallis and Futuna",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "WS",
+    "Country Name": "Samoa",
+    "Continent Code": "OC"
+  },
+  {
+    "Country Code": "YE",
+    "Country Name": "Yemen",
+    "Continent Code": "AS"
+  },
+  {
+    "Country Code": "YT",
+    "Country Name": "Mayotte",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ZA",
+    "Country Name": "South Africa",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ZM",
+    "Country Name": "Zambia",
+    "Continent Code": "AF"
+  },
+  {
+    "Country Code": "ZW",
+    "Country Name": "Zimbabwe",
+    "Continent Code": "AF"
+  }
+]

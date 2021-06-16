@@ -1,6 +1,6 @@
 function getRecordFromFakeKV(kvKeyName){
     const data = {
-        "31445:::2": {
+        "31445___2": {
             "country": {
                 "IN": {
                     "deviceType": {

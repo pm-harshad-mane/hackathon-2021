@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ProfileGroup Test</title>
+</head>
+	<body>
+		<h3>PubMatic Hackathon 2021</h3>
+		<script type="text/javascript">
+			(function() {				
+				var url = 'https://trinity.pubmatic.com/harshad-test?publisherId=31445&profileGroupId=2';
+				var urlForProfile = 'https://ads.pubmatic.com/AdServer/js/pwt/31445/';
+				var urlToLoad = url;
+				var purl = window.location.href;
+				var profileId = '';
+				var profileVersionId = '';
+
+				function getProfileId(){
+					if(purl.indexOf('pwtprof=')>0){
+						var regexp = /pwtprof=(.*?)(&|$)/g;
+						var matches = regexp.exec(purl);
+						if(matches.length >= 2 && matches[1].length > 0){
+							return matches[1];
+						}
+					}
+					return '';
+				}
+
+				function getProfileVersionId(){
+					if(purl.indexOf('pwtv=')>0){
+						var regexp = /pwtv=(.*?)(&|$)/g;
+						var matches = regexp.exec(purl);
+						if(matches.length >= 2 && matches[1].length > 0){
+							return ('/'+matches[1]);
+						}
+					}
+					return '';
+				}
+
+				profileId = getProfileId();
+				if(profileId !== ''){
+					profileVersionId = getProfileVersionId();			
+					urlToLoad = urlForProfile+profileId+profileVersionId+'/pwt.js';
+				}
+
+				var wtads = document.createElement('script');
+				wtads.async = true;
+				wtads.type = 'text/javascript';
+				wtads.src = urlToLoad; 
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(wtads, node);
+			})();
+		</script>
+
+	</body>
+</html>

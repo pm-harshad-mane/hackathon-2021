@@ -32,16 +32,21 @@ function evaluateGeo(userLocation, inputData){
     return output;
 }
 
-export function evaluate(request, inputData){
-  var output = null;
+export function evaluateIt(request, inputData){
+    // return {"say": "evaluateIt.."}
+  var output = {};
   output = evaluateGeo(request.userLocation, inputData);
 
   // output should NOT be null now
   if(output === null){
-      return null;
+      return {};
   }
 
   return output;
+}
+
+export function buzz(){
+    return {"say": "Buzz"};
 }
 
 export function getDeviceType(request){
@@ -55,3 +60,5 @@ export function getDeviceType(request){
   }
   return deviceType
 }
+
+// export { getDeviceType, evaluateIt };
