@@ -34,15 +34,28 @@ function evaluateGeo(userLocation, inputData){
 
 export function evaluateIt(request, inputData){
     // return {"say": "evaluateIt.."}
-  var output = {};
+  var output = null;
   output = evaluateGeo(request.userLocation, inputData);
 
   // output should NOT be null now
   if(output === null){
-      return {};
+      return null;
   }
 
-  return output;
+  const deviceType = getDeviceType(request);
+  if(output.hasOwnProperty("deviceType") === false){
+    return null;
+  }
+
+  if(output["deviceType"].hasOwnProperty(deviceType) === true){
+    return output["deviceType"][deviceType];
+  }
+
+  if(output["deviceType"].hasOwnProperty("UNKNOWN") === true){
+    return output["deviceType"]["UNKNOWN"];      
+  }
+  
+  return null;
 }
 
 export function buzz(){

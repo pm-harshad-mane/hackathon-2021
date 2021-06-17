@@ -5,7 +5,7 @@ import { EdgeKV } from './edgekv.js';
 import { getRecordFromFakeKV } from 'data.js';
 import { getDeviceType, evaluateIt } from 'evaluate.js'
 
-const version = '0.53';
+const version = '0.54';
 
 export async function onClientRequest (request) {
     const params = new URLSearchParams(request.query)
@@ -46,7 +46,7 @@ export async function onClientRequest (request) {
                 kvKeyName: ${kvKeyName}<br>
                 deviceType: ${deviceType}<br>
                 dataFromKV: ${JSON.stringify(dataFromKV)}<br>
-                op: ${JSON.stringify(op)}
+                op: ${op}
             </body>
         </html>`
     );
